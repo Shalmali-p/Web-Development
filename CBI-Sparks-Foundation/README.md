@@ -10,4 +10,4 @@ The website has the following specification -
 
 Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
-website link: http://compassionate-ride-af260f.netlify.app
+website link: https://quirky-gates-3a6661.netlify.app
